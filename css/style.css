@@ -377,7 +377,7 @@ p {
     -webkit-box-shadow: 0 0 7px rgba(46, 59, 125, 0.23);
     box-shadow: 0 0 7px rgba(46, 59, 125, 0.23);
     border-radius: 50%;
-    background: #563c3c;
+    background: #5b2f8b;
     -webkit-box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
     box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
 }
@@ -434,7 +434,7 @@ p {
 }
 
 .bor {
-    background: #563c3c;
+    background: #5b2f8b;
     padding: 10px 25px !important;
     position: relative;
     border-radius: 3px;
@@ -504,7 +504,7 @@ p {
 }
 
 .nav-bg {
-    background: #563c3c !important;
+    background: #5b2f8b !important;
     padding: 25px 0;
     -webkit-box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
     box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
@@ -621,7 +621,7 @@ p {
 
 .banner-txt a {
     padding: 14px 20px;
-    background: #563c3c;
+    background: #5b2f8b;
     color: black;
     font-family: pb;
     font-size: 18px;
@@ -694,7 +694,7 @@ p {
 }
 
 .over-item {
-    background: #563c3c;
+    background: #5b2f8b;
     -webkit-box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
     box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
     padding: 35px 31px;
@@ -930,7 +930,7 @@ over-btn a i {
     left: -65px;
     width: 120px;
     height: 120px;
-    border: 25px solid #563c3c;
+    border: 25px solid #5b2f8b;
     z-index: -1;
     border-radius: 50%;
 }
@@ -942,7 +942,7 @@ over-btn a i {
     right: -55px;
     width: 120px;
     height: 120px;
-    border: 25px solid #563c3c;
+    border: 25px solid #5b2f8b;
     z-index: -1;
     -webkit-transform: rotate(35deg);
     -ms-transform: rotate(35deg);
@@ -956,7 +956,7 @@ over-btn a i {
     left: -65px;
     width: 120px;
     height: 120px;
-    border: 25px solid #563c3c;
+    border: 25px solid #5b2f8b;
     z-index: -1;
     border-radius: 50%;
 }
@@ -995,7 +995,7 @@ over-btn a i {
 
 .about-txt p {
     font-size: 17px;
-    color: #787878;
+    color: #fff;
     line-height: 27px;
     padding-bottom: 30px;
 }
@@ -1368,7 +1368,7 @@ over-btn a i {
     padding: 14px 20px;
     font-family: pb;
     font-size: 16px;
-    color: #563c3c;
+    color: #5b2f8b;
     background: white;
     text-align: center;
     border-radius: 50px;
@@ -1406,7 +1406,7 @@ over-btn a i {
     right: -280px;
     width: 800px;
     height: 800px;
-    border: 80px solid #563c3c;
+    border: 80px solid #5b2f8b;
     border-radius: 50%;
     z-index: -1;
     -webkit-box-shadow: 0 25px 60px rgba(0, 0, 0, .67), inset 0 25px 60px rgba(0, 0, 0, .67);
@@ -1561,7 +1561,7 @@ textarea:-ms-input-placeholder {
 }
 
 .card-body {
-    background: #563c3c;
+    background: #5b2f8b;
     color: #ccc;
     padding: 26px 40px;
     line-height: 28px;
@@ -1836,7 +1836,7 @@ textarea::placeholder {
 =============================*/
 
 #footer-btm {
-    background: #563c3c;
+    background: #5b2f8b;
     border-top: 2px dashed #222;
     padding: 25px 0;
 }
